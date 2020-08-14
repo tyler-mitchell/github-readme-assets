@@ -34,13 +34,14 @@
 				}
 				.container {
 					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
 						Roboto,
 						Helvetica,
+						'Segoe UI',
 						Arial,
 						sans-serif,
+						system-ui,
+						-apple-system,
+						
 						'Apple Color Emoji',
 						'Segoe UI Emoji';
 					display: flex;
