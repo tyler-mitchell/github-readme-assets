@@ -77,8 +77,10 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Tyler Davis Mitchell</h1>
-				<h4>Full Stack Developer</h4>
+				<div>
+					<h1>Tyler Davis Mitchell</h1>
+					<h2>Full Stack Developer</h4>
+				</div>
 			</div>
 		</div>
 	</foreignObject>
